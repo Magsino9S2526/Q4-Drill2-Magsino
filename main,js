@@ -1,0 +1,10 @@
+function opengates (){ < button onclick= "opengates"></button>
+let carcounter = 18;
+const maxCars= 25;
+}
+while (carCounter <maxcars) {
+window.alert(carcounter);
+carCounter +=" 1;"
+
+}
+"Car no + carcounter + is entering"
